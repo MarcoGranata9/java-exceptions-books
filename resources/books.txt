@@ -1,0 +1,15 @@
+Titolo: il signore degli anelli
+Pagine: 400
+Autore: tolkien
+Editore: pippo
+-----------------------------------------
+Titolo: harry potter
+Pagine: 300
+Autore: rowling
+Editore: pippo
+-----------------------------------------
+Titolo: l arte della guerra
+Pagine: 100
+Autore: sun tzu
+Editore: pippo
+-----------------------------------------
